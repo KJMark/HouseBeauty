@@ -1,0 +1,23 @@
+C:\Users\Mark\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+C:\Users\Mark\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.dll
+C:\Users\Mark\Desktop\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+C:\Users\Mark\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+C:\Users\Mark\Desktop\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+E:\New folder\WebApplication2\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+E:\New folder\WebApplication2\WebApplication2\WebApplication2\bin\WebApplication2.dll
+E:\New folder\WebApplication2\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+E:\New folder\WebApplication2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+E:\New folder\WebApplication2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+E:\New folder\WebApplication2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+E:\New folder\WebApplication2-2\WebApplication2-2\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+E:\New folder\WebApplication2-2\WebApplication2-2\WebApplication2\WebApplication2\bin\WebApplication2.dll
+E:\New folder\WebApplication2-2\WebApplication2-2\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+E:\New folder\WebApplication2-2\WebApplication2-2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+E:\New folder\WebApplication2-2\WebApplication2-2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+E:\New folder\WebApplication2-2\WebApplication2-2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
+E:\Programming\New folder1\WebApplication2-2\WebApplication2-2\WebApplication2\WebApplication2\bin\WebApplication2.dll.config
+E:\Programming\New folder1\WebApplication2-2\WebApplication2-2\WebApplication2\WebApplication2\bin\WebApplication2.dll
+E:\Programming\New folder1\WebApplication2-2\WebApplication2-2\WebApplication2\WebApplication2\bin\WebApplication2.pdb
+E:\Programming\New folder1\WebApplication2-2\WebApplication2-2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.csprojResolveAssemblyReference.cache
+E:\Programming\New folder1\WebApplication2-2\WebApplication2-2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.dll
+E:\Programming\New folder1\WebApplication2-2\WebApplication2-2\WebApplication2\WebApplication2\obj\Debug\WebApplication2.pdb
